@@ -1,3 +1,3 @@
 # libft
-**TR** : Bu proje kapsamında C kütüphanelerinde zaten var olan fonksyionları okulun belirlediği kurallar (normlar) çerçevesinde yazarak beraberinde bu projeyi yaparken sadece malloc, free, write fonksiyonlarını kullanarak dilin temellerine olan hakimiyetimi arttırmayı amaçlayan okul projemi yapmış oldum <br/>
+**TR** : Bu proje kapsamında C kütüphanelerinde zaten var olan fonksyionları okulun belirlediği kurallar (normlar) çerçevesinde yazarak beraberinde bu projeyi yaparken sadece malloc, free, write fonksiyonlarını kullanarak dilin temellerine olan hakimiyetimi arttırmayı amaçlayan okul projemi yapmış oldum <br/><br/>
 **EN** : Within the scope of this project, I wrote the functions that already exist in the C libraries within the framework of the rules (norms) determined by the school, while doing this project, I did my school project, which aims to increase my command of the basics of the language by using only the malloc, free, write functions.
